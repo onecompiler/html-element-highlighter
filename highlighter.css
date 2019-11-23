@@ -1,0 +1,8 @@
+.element-active {
+    border-radius: 5px;
+    border-color: #e74c3c;
+    -webkit-box-shadow: 0 0 25px #e74c3c;
+       -moz-box-shadow: 0 0 25px #e74c3c;
+            box-shadow: 0 0 25px 10px #e74c3c;
+}
+
